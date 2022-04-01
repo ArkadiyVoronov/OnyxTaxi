@@ -11,7 +11,6 @@ from sqlalchemy import (
 )
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, scoped_session, relationship
-from SQLAlchemy-Utils import utils
 from typing import Generator
 from datetime import datetime
 
